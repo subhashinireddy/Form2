@@ -1,0 +1,39 @@
+nav {
+  padding :20px;
+  background-color: lightcyan;
+text-align: center;
+}
+
+nav a {
+  margin-right: 15px;
+  }
+  .form {
+    background-color:yellowgreen;
+    width : 30%;
+    padding: 5px 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin: 50px 500px;
+    border: 2px solid black;
+  }
+
+  .form input {
+        margin: 10px;
+  }
+ 
+ .button {
+  background-color : green
+ }
+ .student-table {
+  background-color: lavender;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  .student-table th,
+  .student-table td {
+    border: 1px solid black;
+    text-align: center;
+    
+  }
